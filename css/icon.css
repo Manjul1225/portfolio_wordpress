@@ -1,0 +1,11 @@
+.menu-top.menu-icon-portfolio .wp-menu-image:before,
+.menu-top.menu-icon-bws-portfolio .wp-menu-image:before {
+	content: "\e921";
+	font-family: 'bwsicons' !important;
+}
+#adminmenu #menu-posts-portfolio .wp-submenu li:nth-child(6) a,
+#adminmenu #menu-posts-bws-portfolio .wp-submenu li:nth-child(6) a {
+	border-top: 1px solid #444;
+	padding-top: 12px;
+	margin-top: 6px;
+}
